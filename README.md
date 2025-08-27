@@ -2,6 +2,9 @@
 
 This project is a hands-on, production-grade example of deploying a full-stack 3-tier application on AWS using Kubernetes (EKS). It is ideal for anyone looking to apply Kubernetes in practice while gaining real-world experience with AWS cloud infrastructure.
 
+<img width="644" height="562" alt="image" src="https://github.com/user-attachments/assets/c906b8cd-8c74-4609-8470-65f045d14ed3" />
+
+
 ---
 
 ## Table of Contents
